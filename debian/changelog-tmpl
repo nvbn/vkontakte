@@ -1,4 +1,4 @@
-python-vkontake (1.3.2-0~{{ release }}) {{ release }}; urgency=low
+python-vkontakte (1.3.2-0~{{ release }}) {{ release }}; urgency=low
 
   * Start packaging
 
